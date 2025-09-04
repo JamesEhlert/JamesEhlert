@@ -7,14 +7,5 @@ Atualmente, estou em busca de uma nova oportunidade profissional na área de des
 
 Contato:
 Email: james.rafael.ehlert@gmail.com
-LinkedIn: linkedin.com/in/james-ehlert-reinard
 
-
-
-Hello! 👋 (EN-US)
-I am a recently graduated tech professional with previous experience in Data Engineering, where I worked with ETL pipelines and SQL. My technical background in Industrial Automation sparked my passion for the Internet of Things (IoT), which is now my main hobby. I love developing projects with microcontrollers, connecting them to the cloud, and controlling them through applications.
-I am currently seeking a new professional opportunity in software development, where I can apply both my backend and data skills, as well as my creativity in IoT projects.
-
-Contact:
-Email: james.rafael.ehlert@gmail.com
 LinkedIn: linkedin.com/in/james-ehlert-reinard
